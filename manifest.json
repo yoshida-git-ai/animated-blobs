@@ -6,6 +6,7 @@
     "start_url": "https://yoshida-git-ai.github.io/animated-blobs/",
     "name": "blobanimation",
     "short_name": "blob",
+    "description": "Blob",
     "icons": [
         {
             "src": "/icon-192x192.png",
