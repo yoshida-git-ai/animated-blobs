@@ -1,7 +1,7 @@
 {
     "theme_color": "#828282",
     "background_color": "#f7f9f9",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
     "name": "blobanimation",
